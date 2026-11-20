@@ -1,3 +1,4 @@
+@import url('https://jsdelivr.net');
 ul {
     list-style-type: none;
 } 
@@ -13,7 +14,7 @@ a {
     text-decoration: none;
     font-size: 16px;
     text-align: center;
-    font-family:"Trebuchet MS", Georgia, Times, 'Times New Roman', serif;
+    font-family: "LXGW WenKai", "Kaiti SC", "STKaiti", "KaiTi", "楷体", "Trebuchet MS", "Georgia";
     border: 0.5px solid #333;
     border-radius: 15px;
     box-shadow: 4px 4px 6px #838383;
@@ -23,13 +24,13 @@ a:hover {
     color:lavender;
 }
 p {
-    font-family: "Trebuchet MS", Georgia, Times, 'Times New Roman', serif;
+    font-family: "LXGW WenKai", "Kaiti SC", "STKaiti", "KaiTi", "楷体", "Trebuchet MS", "Georgia";
     font-size: 15px;
     line-height: 1.6;
     margin-bottom: 16px;
 }
 h1 {
-    font-family: "Trebuchet MS", Georgia, Times, 'Times New Roman', serif;
+    font-family: "LXGW WenKai", "Kaiti SC", "STKaiti", "KaiTi", "楷体", "Trebuchet MS", "Georgia";
     font-size: 20px;
     font-weight: bold;
     background-color: lightblue;
@@ -67,7 +68,7 @@ h1 {
     box-shadow: 6px 6px 9px #838383;
 }
 .date {
-    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", sans-serif;
+    font-family: "LXGW WenKai", "Kaiti SC", "STKaiti", "KaiTi", "楷体", "Trebuchet MS", "Georgia";
     font-weight: bold;
     color: #0e60df;
     display: inline-block;
