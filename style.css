@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #181818; -webkit-text-stroke: #181818}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #dc0005; -webkit-text-stroke: #dc0005}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #12521f; -webkit-text-stroke: #12521f}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #0b2256; -webkit-text-stroke: #0b2256}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #6b0001; -webkit-text-stroke: #6b0001}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #093c94; -webkit-text-stroke: #093c94}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #137646; -webkit-text-stroke: #137646}
+    span.s1 {font-kerning: none; color: #12521f; background-color: #ffffff; -webkit-text-stroke: 0px #12521f}
+    span.s2 {font-kerning: none; background-color: #ffffff}
+    span.s3 {font-kerning: none; color: #181818; background-color: #ffffff; -webkit-text-stroke: 0px #181818}
+    span.s4 {font-kerning: none; color: #093c94; background-color: #ffffff; -webkit-text-stroke: 0px #093c94}
+    span.s5 {font-kerning: none; color: #dc0005; background-color: #ffffff; -webkit-text-stroke: 0px #dc0005}
+    span.s6 {font-kerning: none; color: #137646; background-color: #ffffff; -webkit-text-stroke: 0px #137646}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">ul</span><span class="s2"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">list-style-type</span><span class="s3">: </span><span class="s4">none</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2">}<span class="Apple-converted-space"> </span></span></p>
+<p class="p3"><span class="s2">body</span><span class="s3"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">: </span><span class="s4">#b0daf7</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p1"><span class="s1">a</span><span class="s2"> {</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">padding</span><span class="s2">: </span><span class="s6">10px</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">: </span><span class="s4">dodgerblue</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">display</span><span class="s2">: </span><span class="s4">block</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-bottom</span><span class="s3">: </span><span class="s6">5px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">color</span><span class="s2">: </span><span class="s4">white</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">text-decoration</span><span class="s3">: </span><span class="s4">none</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">font-size</span><span class="s3">: </span><span class="s6">16px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">text-align</span><span class="s3">: </span><span class="s4">center</span><span class="s3">;</span></p>
+<p class="p4"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">font-family</span><span class="s3">:</span><span class="s2">"Trebuchet MS"</span><span class="s3">, </span><span class="s4">Georgia</span><span class="s3">, </span><span class="s4">Times</span><span class="s3">, </span><span class="s2">'Times New Roman'</span><span class="s3">, </span><span class="s4">serif</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">border</span><span class="s2">: </span><span class="s6">0.5px</span><span class="s2"> </span><span class="s4">solid</span><span class="s2"> </span><span class="s4">#333</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-radius</span><span class="s3">: </span><span class="s6">15px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s2">: </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">6px</span><span class="s2"> </span><span class="s4">#838383</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s1">a</span><span class="s2">:hover</span><span class="s3"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">: </span><span class="s4">#0e60df</span><span class="s3">;</span></p>
+<p class="p6"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">color</span><span class="s3">:</span><span class="s2">lavender</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p1"><span class="s1">p</span><span class="s2"> {</span></p>
+<p class="p4"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">font-family</span><span class="s3">: </span><span class="s2">"Trebuchet MS"</span><span class="s3">, </span><span class="s4">Georgia</span><span class="s3">, </span><span class="s4">Times</span><span class="s3">, </span><span class="s2">'Times New Roman'</span><span class="s3">, </span><span class="s4">serif</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">font-size</span><span class="s3">: </span><span class="s6">15px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">line-height</span><span class="s3">: </span><span class="s6">1.6</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-bottom</span><span class="s3">: </span><span class="s6">16px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p1"><span class="s1">h1</span><span class="s2"> {</span></p>
+<p class="p4"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">font-family</span><span class="s3">: </span><span class="s2">"Trebuchet MS"</span><span class="s3">, </span><span class="s4">Georgia</span><span class="s3">, </span><span class="s4">Times</span><span class="s3">, </span><span class="s2">'Times New Roman'</span><span class="s3">, </span><span class="s4">serif</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">font-size</span><span class="s3">: </span><span class="s6">20px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">font-weight</span><span class="s3">: </span><span class="s4">bold</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">: </span><span class="s4">lightblue</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">.menu-hidden</span><span class="s3"> {</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">display</span><span class="s2">: </span><span class="s4">none</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">.menu-hidden.open</span><span class="s3"> {</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">display</span><span class="s2">: </span><span class="s4">block</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">#menu-btn</span><span class="s3"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background</span><span class="s3">: </span><span class="s4">none</span><span class="s3">;</span></p>
+<p class="p6"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">border</span><span class="s3">: </span><span class="s6">2px</span><span class="s3"> </span><span class="s2">solid</span><span class="s3"> </span><span class="s2">dodgerblue</span><span class="s3">;</span></p>
+<p class="p6"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">color</span><span class="s3">: </span><span class="s2">dodgerblue</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">padding</span><span class="s2">: </span><span class="s6">8px</span><span class="s2"> </span><span class="s6">12px</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">font-size</span><span class="s3">: </span><span class="s6">18px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">cursor</span><span class="s2">: </span><span class="s4">pointer</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-radius</span><span class="s3">: </span><span class="s6">4px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">align-items</span><span class="s3">: </span><span class="s4">center</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">display</span><span class="s2">: </span><span class="s4">flex</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">justify-content</span><span class="s3">: </span><span class="s4">center</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">text-align</span><span class="s3">: </span><span class="s4">center</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s2">: </span><span class="s6">2px</span><span class="s2"> </span><span class="s6">3px</span><span class="s2"> </span><span class="s6">3px</span><span class="s2"> </span><span class="s4">#838383</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">.changelog</span><span class="s3"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">max-width</span><span class="s3">: </span><span class="s6">700px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">margin</span><span class="s2">: </span><span class="s4">auto</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">.log-entry</span><span class="s3"> {</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">border</span><span class="s2">: </span><span class="s6">1px</span><span class="s2"> </span><span class="s4">solid</span><span class="s2"> </span><span class="s4">#333</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">padding</span><span class="s2">: </span><span class="s6">15px</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-bottom</span><span class="s3">: </span><span class="s6">12px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">: </span><span class="s4">white</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-radius</span><span class="s3">: </span><span class="s6">15px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s2">: </span><span class="s6">6px</span><span class="s2"> </span><span class="s6">6px</span><span class="s2"> </span><span class="s6">9px</span><span class="s2"> </span><span class="s4">#838383</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">.date</span><span class="s3"> {</span></p>
+<p class="p4"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">font-family</span><span class="s3">: </span><span class="s2">"Trebuchet MS"</span><span class="s3">, </span><span class="s2">"Lucida Sans Unicode"</span><span class="s3">, </span><span class="s2">"Lucida Grande"</span><span class="s3">, </span><span class="s2">"Lucida Sans"</span><span class="s3">, </span><span class="s4">sans-serif</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">font-weight</span><span class="s3">: </span><span class="s4">bold</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">color</span><span class="s2">: </span><span class="s4">#0e60df</span><span class="s2">;</span></p>
+<p class="p6"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">display</span><span class="s3">: </span><span class="s2">inline-block</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-bottom</span><span class="s3">: </span><span class="s6">6px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">.article-container</span><span class="s3"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">max-width</span><span class="s3">: </span><span class="s6">680px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">margin</span><span class="s2">: </span><span class="s6">30px</span><span class="s2"> </span><span class="s4">auto</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">padding</span><span class="s2">: </span><span class="s6">20px</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">: </span><span class="s4">white</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">border</span><span class="s2">: </span><span class="s6">1px</span><span class="s2"> </span><span class="s4">solid</span><span class="s2"> </span><span class="s4">#333</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-radius</span><span class="s3">: </span><span class="s6">10px</span><span class="s3">;</span></p>
+<p class="p7"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s3">: </span><span class="s2">10px</span><span class="s3"> </span><span class="s2">10px</span><span class="s3"> </span><span class="s2">15px</span><span class="s3"> </span><span class="s4">#838383</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">.header-container</span><span class="s3"> {</span></p>
+<p class="p6"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">max-width</span><span class="s3">: </span><span class="s2">fit-content</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">margin</span><span class="s2">: </span><span class="s6">30px</span><span class="s2"> </span><span class="s4">auto</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">padding</span><span class="s2">: </span><span class="s6">20px</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">:</span><span class="s4">lightskyblue</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">border</span><span class="s2">: </span><span class="s6">1px</span><span class="s2"> </span><span class="s4">solid</span><span class="s2"> </span><span class="s4">#333</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-radius</span><span class="s3">: </span><span class="s6">10px</span><span class="s3">;</span></p>
+<p class="p7"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s3">: </span><span class="s2">10px</span><span class="s3"> </span><span class="s2">10px</span><span class="s3"> </span><span class="s2">15px</span><span class="s3"> </span><span class="s4">#838383</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p1"><span class="s1">h2</span><span class="s2"> {</span></p>
+<p class="p6"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">border-top</span><span class="s3">: </span><span class="s6">1px</span><span class="s3"> </span><span class="s2">solid</span><span class="s3"> </span><span class="s2">#0e60df</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-bottom</span><span class="s3">: </span><span class="s6">3px</span><span class="s3"> </span><span class="s4">solid</span><span class="s3"> </span><span class="s4">#0e60df</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">padding-bottom</span><span class="s3">: </span><span class="s6">5px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-top</span><span class="s3">: </span><span class="s6">25px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-radius</span><span class="s3">: </span><span class="s6">15px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">text-align</span><span class="s3">: </span><span class="s4">center</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-left</span><span class="s3">: </span><span class="s4">auto</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-right</span><span class="s3">: </span><span class="s4">auto</span><span class="s3">;</span></p>
+<p class="p4"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">font-family</span><span class="s3">: </span><span class="s2">"Trebuchet MS"</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">: </span><span class="s4">aliceblue</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s2">: </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">6px</span><span class="s2"> </span><span class="s4">#838383</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">padding-left</span><span class="s3">: </span><span class="s6">2px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">padding-right</span><span class="s3">: </span><span class="s6">2px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">.highlight-box</span><span class="s3"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">: </span><span class="s4">aquamarine</span><span class="s3">;</span></p>
+<p class="p6"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s5">border-left</span><span class="s3">: </span><span class="s6">4px</span><span class="s3"> </span><span class="s2">solid</span><span class="s3"> </span><span class="s2">#0e60df</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">padding</span><span class="s2">: </span><span class="s6">15px</span><span class="s2"> </span><span class="s6">20px</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s2">: </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">6px</span><span class="s2"> </span><span class="s4">#838383</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">#menu-container</span><span class="s3"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">max-width</span><span class="s3">: </span><span class="s4">auto</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">margin</span><span class="s2">: </span><span class="s6">30px</span><span class="s2"> </span><span class="s4">auto</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">padding</span><span class="s2">: </span><span class="s6">20px</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">border</span><span class="s2">: </span><span class="s6">0.5px</span><span class="s2"> </span><span class="s4">solid</span><span class="s2"> </span><span class="s4">#333</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-radius</span><span class="s3">: </span><span class="s6">15px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s2">: </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">6px</span><span class="s2"> </span><span class="s4">#838383</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p5"><span class="s2">.photo-container</span><span class="s3"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">max-width</span><span class="s3">: </span><span class="s6">680px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">margin</span><span class="s2">: </span><span class="s6">30px</span><span class="s2"> </span><span class="s4">auto</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">padding</span><span class="s2">: </span><span class="s6">40px</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">background-color</span><span class="s3">: </span><span class="s4">white</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">border</span><span class="s2">: </span><span class="s6">1px</span><span class="s2"> </span><span class="s4">solid</span><span class="s2"> </span><span class="s4">#333</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-radius</span><span class="s3">: </span><span class="s6">10px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">image-rendering</span><span class="s3">: </span><span class="s4">auto</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">display</span><span class="s2">: </span><span class="s4">flex</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">image-orientation</span><span class="s3">: </span><span class="s4">from-image</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">image-resolution</span><span class="s3">: </span><span class="s4">from-image</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">justify-content</span><span class="s3">: </span><span class="s4">center</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">align-items</span><span class="s3">: </span><span class="s4">center</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s2">: </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">6px</span><span class="s2"> </span><span class="s4">#838383</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+<p class="p3"><span class="s2">img</span><span class="s3"> {</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">max-width</span><span class="s3">: </span><span class="s6">400px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">max-height</span><span class="s3">: </span><span class="s6">400px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">display</span><span class="s2">: </span><span class="s4">block</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">border</span><span class="s2">: </span><span class="s6">0.5px</span><span class="s2"> </span><span class="s4">solid</span><span class="s2"> </span><span class="s4">#333</span><span class="s2">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">border-radius</span><span class="s3">: </span><span class="s6">15px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-left</span><span class="s3">: </span><span class="s4">auto</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-right</span><span class="s3">: </span><span class="s4">auto</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-top</span><span class="s3">: </span><span class="s6">20px</span><span class="s3">;</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s2">margin-bottom</span><span class="s3">: </span><span class="s6">20px</span><span class="s3">;</span></p>
+<p class="p1"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s5">box-shadow</span><span class="s2">: </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">4px</span><span class="s2"> </span><span class="s6">6px</span><span class="s2"> </span><span class="s4">#838383</span><span class="s2">;</span></p>
+<p class="p1"><span class="s2">}</span></p>
+</body>
+</html>
